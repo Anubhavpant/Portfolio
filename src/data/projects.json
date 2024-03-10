@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Watchmate",
+    "imageSrc": "projects/project.jpg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://65db2e3564c4cfcb89e9bf37--dreamy-flan-b26636.netlify.app/",
+    "source": "https://github.com/Anubhavpant/WatchMate/tree/main"
+  },
+  {
+    "title": "ShopMart",
+    "imageSrc": "projects/project.jpg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://shop-mart-frontend.vercel.app/",
+    "source": "https://www.github.com/Anubhavpant"
+  }
+]

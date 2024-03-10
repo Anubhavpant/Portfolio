@@ -1,0 +1,23 @@
+[
+  {
+    "instituteName": "Cambrian Hall",
+    "degree": "12th",
+    "startDate": "Apr, 2016",
+    "endDate": "May, 2017",
+    "imageSrc":"education/ch.png"
+  },
+  {
+    "instituteName": "Government Polytechnic Dehradun",
+    "degree": "Diploma",
+    "startDate": "Aug, 2017",
+    "endDate": "May, 2020",
+    "imageSrc":"education/gpd.avif"
+  },
+  {
+    "instituteName": "Uttaranchal University",
+    "degree": "B.tech(CSE)",
+    "startDate": "Aug, 2020",
+    "endDate": "Nov, 2023",
+    "imageSrc":"education/uu.png"
+  }
+]
