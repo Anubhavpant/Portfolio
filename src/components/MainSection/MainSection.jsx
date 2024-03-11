@@ -1,13 +1,14 @@
 import { getImageUrl } from "../../utils";
 import styles from './MainSection.module.css';
 
+
 const MainSection = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi,I'm Anubhav</h1>
+        <h1 className={styles.title}>Hi,I'm Annnnnnubhav</h1>
         <p className={styles.description}>I'm a Software Engineer</p>
-        <a  href={'../../../resume/AnubhavResume.pdf'} download="Anubhav's Resume" className={styles.contactBtn}>Download Resume</a>
+        <button  onClick={()=>{window.open("../../../resume/AnubhavResume.pdf")}}  className={styles.contactBtn}>Download Resume</button>
       </div>
       <img src={getImageUrl("main/mainImage.png")}
       alt="abc"
