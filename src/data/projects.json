@@ -1,7 +1,7 @@
 [
   {
     "title": "Watchmate",
-    "imageSrc": "projects/project.jpg",
+    "imageSrc": "projects/watchmate.avif",
     "description": "A video streaming app build in react.",
     "skills": ["React", "Express", "Node", "Sass"],
     "demo": "https://65db2e3564c4cfcb89e9bf37--dreamy-flan-b26636.netlify.app/",
@@ -9,7 +9,7 @@
   },
   {
     "title": "ShopMart",
-    "imageSrc": "projects/project.jpg",
+    "imageSrc": "projects/shopmart.png",
     "description": "E-commerce Application made in React.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://shop-mart-frontend.vercel.app/",
