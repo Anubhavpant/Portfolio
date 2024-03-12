@@ -8,7 +8,7 @@ const MainSection = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi,I'm Anubhav</h1>
         <p className={styles.description}>I'm a Software Engineer</p>
-        <button  onClick={()=>{window.open(getImageUrl("AnubhavResume.pdf"))}}  className={styles.contactBtn}>Download Resume</button>
+        <button  onClick={()=>{window.open(getImageUrl("AnubhavPantResume.pdf"))}}  className={styles.contactBtn}>Download Resume</button>
       </div>
       <img src={getImageUrl("main/mainImage.png")}
       alt="abc"
