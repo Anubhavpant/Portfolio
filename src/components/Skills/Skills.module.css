@@ -16,6 +16,7 @@
   gap: 11px;
 }
 
+
 .skillImageContainer {
   display: flex;
   align-items: center;
@@ -72,4 +73,10 @@
   letter-spacing: 1.75px;
   text-transform: uppercase;
   text-align: center;
+}
+
+@media screen and (max-width:830px) {
+  .skills{
+    padding-right: 40px;
+  }
 }
